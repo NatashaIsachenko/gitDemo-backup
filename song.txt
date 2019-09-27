@@ -7,3 +7,5 @@ commit from master
 
 commit from feature
 
+commit for tag
+
